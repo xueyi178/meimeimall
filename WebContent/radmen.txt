@@ -1,0 +1,13 @@
+注册:
+http://localhost:8080/HeiMaShop/register.jsp
+//主页面
+http://localhost:8080/HeiMaShop/indexServlet
+http://localhost:8080/HeiMaShop/index.jsp
+http://localhost:8080/HeiMaShop/userLoginServlet
+//分页的页面
+http://localhost:8080/HeiMaShop/product_list.jsp
+//后台
+http://localhost:8080/HeiMaShop/admin/home.jsp
+//过滤了
+http://localhost:8080/HeiMaShop/privilege/order_list.jsp
+
